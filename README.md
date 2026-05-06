@@ -1,6 +1,10 @@
-# nasdaq-weekly-stock-price-forecasting
-Time series forecasting project for weekly NASDAQ stock prices using ARIMA/ARIMAX and human-adjusted predictions.
-# NASDAQ Weekly Stock Price Forecasting
+# NASDAQ Weekly Stock Price Forecasting: Time Series Analytics for Market Prediction
+
+This project forecasts weekly closing prices of selected NASDAQ-listed stocks using statistical time series models and human-adjusted forecasting insights.
+
+Tech: Python, pandas, yfinance, Auto-ARIMA, ARIMAX, XGBoost, Excel.
+
+Skills: Time Series Forecasting; Feature Engineering; Model Evaluation; Human-in-the-Loop Forecasting; Financial Analytics.
 
 ## Project Objective
 
@@ -74,12 +78,3 @@ Factors considered include:
 - Market-wide factors such as NASDAQ and S&P 500 movements influence many stocks simultaneously.
 - Human-adjusted forecasts can help reflect real-world market uncertainty that may not be fully captured by the model.
 
-## Tools Used
-
-- Python
-- yfinance
-- pandas
-- Auto-ARIMA / ARIMAX
-- XGBoost
-- Excel
-- PowerPoint
